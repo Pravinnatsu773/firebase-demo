@@ -8,14 +8,7 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword } f
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDoPK53Et07K0HSb29QZzUG4Q6eY-alJKw",
-  authDomain: "webrtc-p2p-24fd6.firebaseapp.com",
-  databaseURL: "https://webrtc-p2p-24fd6-default-rtdb.firebaseio.com",
-  projectId: "webrtc-p2p-24fd6",
-  storageBucket: "webrtc-p2p-24fd6.appspot.com",
-  messagingSenderId: "690544703916",
-  appId: "1:690544703916:web:36696638ef593c1af5e209",
-  measurementId: "G-F7S57G3ZRE"
+  
 };
 
 
